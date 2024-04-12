@@ -16,3 +16,18 @@ cd Tic-Tac-Toe
 ```
 Then open index.html in your preferred web browser.
 
+![Alt text](pic1.gif)
+
+![Alt text](pic2.gif)
+
+![Alt text](pic3.gif)
+
+![Alt text](pic4.gif)
+
+![Alt text](pic5.gif)
+
+![Alt text](pic6.gif)
+
+![Alt text](pic7.gif)
+
+![Alt text](pic8.gif)
